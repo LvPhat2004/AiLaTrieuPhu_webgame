@@ -1,6 +1,7 @@
 # Ai Là Triệu Phú Game
 
-![Game Preview](preview.png)
+![image](https://github.com/user-attachments/assets/21186e17-28ae-4f30-a9e9-82ba5204dd39)
+
 
 ## Giới thiệu
 Một game Ai Là Triệu Phú được xây dựng bằng HTML, CSS và JavaScript thuần. Game mô phỏng chương trình truyền hình nổi tiếng với các câu hỏi đa dạng và 4 quyền trợ giúp.
@@ -25,4 +26,4 @@ Một game Ai Là Triệu Phú được xây dựng bằng HTML, CSS và JavaScr
 - Bootstrap Icons
 
 ## Cài đặt
-1. Clone repository này: 
+1. Clone repository này
